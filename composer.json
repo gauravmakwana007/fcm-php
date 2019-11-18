@@ -13,7 +13,7 @@
             "email": "gauravmakwanaa@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "1.0",
     "prefer-stable": true,
     "require": {
         "php": ">=5.0"

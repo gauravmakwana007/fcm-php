@@ -1,5 +1,5 @@
 {
-    "name": "gaurav/fcm-php",
+    "name": "ravbri/fcm-php",
     "description": "FCM php is use for push notification.",
     "type": "library",
     "require": {
@@ -7,7 +7,7 @@
     },
     "authors": [
         {
-            "name": "gaurav",
+            "name": "ravbri",
             "email": "gauravmakwanaa@gmail.com"
         }
     ],

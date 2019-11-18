@@ -5,7 +5,7 @@
     "license": "MIT",
     "keywords": ["fcm","fcm-php", "php-fcm"],
     "require": {
-        "rav/fcm-php": "dev"
+        "rav/fcm-php": "1.1"
     },
     "authors": [
         {

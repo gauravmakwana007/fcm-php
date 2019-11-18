@@ -2,6 +2,7 @@
     "name": "rav/fcm-php",
     "description": "FCM php is use for push notification.",
     "type": "library",
+    "license": "MIT",
     "require": {
         "rav/fcm-php": "dev"
     },

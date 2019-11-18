@@ -3,6 +3,7 @@
     "description": "FCM php is use for push notification.",
     "type": "library",
     "license": "MIT",
+    "keywords": ["fcm","fcm-php", "php-fcm"],
     "require": {
         "rav/fcm-php": "dev"
     },
